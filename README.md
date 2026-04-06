@@ -2,7 +2,7 @@
 ## AI-400 Class 22 - Project 2
 
 This project covers Kubernetes deployment planning for two real-world application scenarios.
-No code is written — the focus is on architecture, security, and infrastructure design decisions.
+No code is written - the focus is on architecture, security, and infrastructure design decisions.
 
 ---
 
